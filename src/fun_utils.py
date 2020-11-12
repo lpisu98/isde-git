@@ -31,8 +31,6 @@ def split_data(X, y, tr_fraction=0.5):
     Split the data x, y into two random subsets
 
     """
-<<<<<<< HEAD
-=======
     num_samples = y.size
     n_tr = int(num_samples * tr_fraction)
 
@@ -49,5 +47,4 @@ def split_data(X, y, tr_fraction=0.5):
     yts = y[ts_idx]
 
     return Xtr, ytr, Xts, yts
->>>>>>> main
     pass
