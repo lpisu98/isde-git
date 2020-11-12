@@ -1,5 +1,4 @@
 # Exercise - Working with Git
--
 Each working group must implement the functions illustrated
  in the previous lessons regarding the loading of MNIST digit dataset
  and the computation of the centroids using Git tools for shared development.
