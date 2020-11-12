@@ -1,3 +1,4 @@
+Finish
 # Exercise - Working with Git
 
 Each working group must implement the functions illustrated
