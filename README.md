@@ -58,7 +58,6 @@ Change the `requirements.txt` file by adding the name of any new dependency if n
 12. When all tests are passing **for the `release`** branch, the last commit in that branch
  should be tagged as `v1.0`.
 
-
 ## Details about functions and variables
 Common variables:
 - y: labels (one for each image) (numpy array)
