@@ -33,12 +33,9 @@ class NMC(object):
     def fit(self, xtr, ytr):
         pass
 
-<<<<<<< HEAD
     def predict(self, xts):
         pass
-=======
         dist_euclidean = euclidean_distances(Xts, self._centroids)
         idx_min = np.argmin(dist_euclidean, axis=1)
         yc = self._class_labels[idx_min]
         return yc
->>>>>>> main
